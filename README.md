@@ -1,5 +1,5 @@
 # votesystem
-[imagem.jpg](https://i.imgur.com/MAuPJrp.png)
+
 Try to get a simple votesystem for any gameserver
 
 -VoteSystem for Lineage 2: https://github.com/L2jBrasil/icpn-votesystem
