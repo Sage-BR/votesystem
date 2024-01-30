@@ -2,7 +2,9 @@
 
 Try to get a simple votesystem for any gameserver
 
--VoteSystem for Lineage 2: https://github.com/Sage-BR/votesystemicp  | https://github.com/Sage-BR/VDSystem
+-VoteSystem for Lineage 2:
+Web: https://github.com/Sage-BR/votesystemicp  
+Java: https://github.com/Sage-BR/VDSystem
 
 -VoteSystem for Mu Online: Coming
 
